@@ -1,5 +1,5 @@
 Welcome to llama-amaze's documentation!
-======================================
+=======================================
 
 .. toctree::
    :maxdepth: 2
